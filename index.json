@@ -1,0 +1,17 @@
+{
+  "articles/readme.html": {
+    "href": "articles/readme.html",
+    "title": "Welcome to the mac WIKI | mac Wiki",
+    "keywords": "Welcome to the mac WIKI Here you will find various helpful articles on running different tools etc. mac"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "mac Wiki | mac Wiki",
+    "keywords": "mac Wiki mac Check out the Articles"
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "mac WIKI | mac Wiki",
+    "keywords": "mac WIKI A set of Articles to run through mac . Site local Install Init: docfx init -q mono /Users/alexhedley/Documents/APPS/docfx/docfx.exe init -q Build: docfx docfx.json Serve: docfx serve _site mono /Users/alexhedley/Documents/APPS/docfx/docfx.exe serve _site docfx docfx.json --serve mono /Users/alexhedley/Documents/APPS/docfx/docfx.exe docfx.json --serve Get the path to docfx and run with mono : mono /Users/alexhedley/Documents/APPS/docfx/docfx.exe docfx.json --serve"
+  }
+}
