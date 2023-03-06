@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "qh92omEPNckWA35g6KBG7Q=="
+          "hash": "WHeoWFayJfmzlJpl9YVqrA=="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/preview/bw.html",
-          "hash": "487XsrADNYoOsKCsqnJ+Jg=="
+          "hash": "0c2T/g7gyMMVw5eJXgGuoA=="
         }
       },
       "is_incremental": false,
@@ -97,7 +97,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/preview/readme.html",
-          "hash": "sNvf8TITQlBJ7fvKpJTdqg=="
+          "hash": "2CrOJPv5fWWZyTGaoZqPug=="
         }
       },
       "is_incremental": false,
@@ -109,7 +109,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/readme.html",
-          "hash": "bbW9L5227qk2o/bRZSjIyg=="
+          "hash": "dbKJ2CpSbFYnURPznnA6aA=="
         }
       },
       "is_incremental": false,
@@ -161,12 +161,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "uPEmjj7WyaEhoL8/3Q1pAA=="
+          "hash": "B/YqxIp06eq63juUe8qMqg=="
         }
       },
       "is_incremental": false,
