@@ -1,7 +1,7 @@
 # mac Wiki
 
-![Image](/images/48x48.png "Image")
+![Image](/images/apple_48x48.jpg "Image")
 
 - [mac](https://www.apple.com/mac/)
 
-Check out the [Articles](/articles/readme.html)
+Check out the [Articles](articles/readme.html)
