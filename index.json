@@ -1,4 +1,14 @@
 {
+  "articles/preview/bw.html": {
+    "href": "articles/preview/bw.html",
+    "title": "Black and White | mac Wiki",
+    "keywords": "Black and White I wanted to convert and image from colour to black and white. Open the image in Preview. Tools | Adjust Colour... ⌥⌘C Move the Saturation to 0. Outcome"
+  },
+  "articles/preview/readme.html": {
+    "href": "articles/preview/readme.html",
+    "title": "Preview | mac Wiki",
+    "keywords": "Preview User Guide"
+  },
   "articles/readme.html": {
     "href": "articles/readme.html",
     "title": "Welcome to the mac WIKI | mac Wiki",

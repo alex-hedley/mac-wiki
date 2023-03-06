@@ -26,6 +26,85 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/preview/bw.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/preview/bw.html",
+          "hash": "487XsrADNYoOsKCsqnJ+Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/preview/images/adjust-colour.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/preview/images/adjust-colour.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/preview/images/adjustcolour-tools-preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/preview/images/adjustcolour-tools-preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/preview/images/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/preview/images/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/preview/images/saturation-adjustcolour.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/preview/images/saturation-adjustcolour.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/preview/images/toolbar-preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/preview/images/toolbar-preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/preview/readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/preview/readme.html",
+          "hash": "sNvf8TITQlBJ7fvKpJTdqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/readme.md",
       "output": {
         ".html": {
@@ -42,7 +121,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "YCeIsN0sB8P+5MqUpNWhOA=="
+          "hash": "60PN241X2wMlNcwqidioAQ=="
         }
       },
       "is_incremental": false,
@@ -120,7 +199,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 5,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
